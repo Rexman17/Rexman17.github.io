@@ -12,8 +12,10 @@ function App() {
 
         <div className="info">
           <div>516.361.4802</div>
-          <div style={{ color: "white" }}>
-            <a href="mailto:a.stone1794@gmail.com">a.stone1794@gmail.com</a>
+          <div>
+            <a style={{ color: "white" }} href="mailto:a.stone1794@gmail.com">
+              a.stone1794@gmail.com
+            </a>
           </div>
         </div>
       </div>
